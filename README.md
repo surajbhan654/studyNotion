@@ -10,7 +10,7 @@ Link : https://studynotion-frontend.vercel.app/
 ![image](https://github.com/surajbhan654/studyNotion/assets/58772971/e5cf598a-886a-4f50-8f6e-e592a2fd0189)
 
 **Log In**
-![Uploading image.png…]()
+![image](https://github.com/surajbhan654/studyNotion/assets/58772971/d2cd1e3c-4073-4bc3-aa5a-f552c85b51d6)
 
 
 ## Project Description
