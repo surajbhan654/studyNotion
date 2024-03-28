@@ -2,7 +2,9 @@
 
 Link : https://studynotion-frontend.vercel.app/
 
-Home Page 
+**Home Page **
+
+
 ![Main Page](images/mainpage.png)
 
 ## Project Description
