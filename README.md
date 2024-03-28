@@ -2,10 +2,16 @@
 
 Link : https://studynotion-frontend.vercel.app/
 
-**Home Page **
-
+**Home Page**
 
 ![Main Page](images/mainpage.png)
+
+**Sign Up**
+![image](https://github.com/surajbhan654/studyNotion/assets/58772971/e5cf598a-886a-4f50-8f6e-e592a2fd0189)
+
+**Log In**
+![Uploading image.png…]()
+
 
 ## Project Description
 
